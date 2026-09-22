@@ -131,7 +131,7 @@ I’m a passionate Full Stack Engineer who enjoys building scalable web applicat
 - 📝 Blog: [shahwarkhan/blogs](https://shahwarkhan.netlify.app/blogs)
 - 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/shahwar-khan-0854b8171/)
 - 📘 Facebook: [Find me on Facebook](https://www.facebook.com/usman.mani.9615566)
-- 📧 Email: [alihamxa300@gmail.com](mailto:shahwarkhan092@gmail.com)
+- 📧 Email: [shahwarkhan092@gmail.com](mailto:shahwarkhan092@gmail.com)
 
 ---
 
